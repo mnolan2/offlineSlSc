@@ -13,3 +13,6 @@
 	
 using namespace std
 
+#include <algorithm>
+#include stdio.h
+
